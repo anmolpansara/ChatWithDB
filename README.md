@@ -23,7 +23,7 @@ A powerful chatbot application that allows you to interact with PostgreSQL datab
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/yourusername/ChatDB.git
+git clone https://github.com/anmolpansara/ChatWithDB.git
 cd ChatDB
 ```
 
